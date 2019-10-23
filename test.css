@@ -1,0 +1,64 @@
+
+            #header{
+            
+                padding: 10px;
+                background-color: blueviolet;
+                height: 80px;
+                width: 80%;
+                margin-left: 120px;
+                text-align: right;
+            }
+            #nav{
+                margin-left: 120px;
+                margin-top: 90px;
+            }
+            #det{
+                
+                border: 3px solid rgb(134, 131, 131);
+                height: 120px;
+                width: 51%;
+                margin-left: 120px;
+                float: left;
+                font-family: sans-serif;
+                font-size: 15px;
+                padding: 10px 0px 0px 20px;                
+            }
+            #box{
+                height: 280px;
+                width: 28%;
+                margin-right: 130px;
+                border: 3px solid rgb(134, 131, 131);
+                float: right;
+            }
+            #main{
+                width: 100%;
+            }
+            #button1{
+                height: 30px;
+                width: 340px;
+                margin: 20px 20px 15px 20px;
+                font-size: 20px;
+            }
+            #button2{
+                height: 30px;
+                width: 340px;
+                margin: 20px 20px 15px 20px;
+                font-size: 20px;
+            }
+            #button3{
+                height: 30px;
+                width: 340px;
+                margin: 20px 20px 15px 20px;
+                font-size: 20px;
+            }
+            #button4{
+                height: 30px;
+                width: 340px;
+                margin: 20px 20px 15px 20px;
+                font-size: 20px;
+            }
+            #ans{
+                font-size: 25px;
+                font-family: sans-serif;
+                padding: 10px 0px 0px 20px;
+            }
